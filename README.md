@@ -8,3 +8,7 @@
 
 ---
 Your documentation here: 
+
+
+* A higer order function is a function that accepts functions as parameters and/or returns a function. 
+* The purpose of the higher order functions is to make the code more efficient and abstract.
